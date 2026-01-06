@@ -7,7 +7,7 @@
 Following [Tinker-Docs](https://tinker-docs.thinkingmachines.ai/) and chatGPT, I configured:
 - Python version management (correct version for Tinker compatibility)
 - SDK installation and configuration
-- API integration with ThinkingMachines.AI
+- API integration attempt with ThinkingMachines.AI (blocked due to account credit limitations)
 - Dependency troubleshooting
 
 ## Challenges & Solutions
@@ -16,6 +16,9 @@ Following [Tinker-Docs](https://tinker-docs.thinkingmachines.ai/) and chatGPT, I
 
 **Challenge:** Unclear setup instructions in documentation
 **Solution:** Cross-referenced community resources and AI assistance
+
+**Challenge:** Unable to complete API integration due to missing account credits  
+**Solution:** Diagnosed error source and deferred integration until credits are available
 
 ## Learning Outcomes
 - Environment setup and configuration management

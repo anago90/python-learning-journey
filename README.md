@@ -24,4 +24,8 @@ Following [Tinker-Docs](https://tinker-docs.thinkingmachines.ai/) and chatGPT, I
 - Understanding of Python project structure and dependencies
 
 ## Next Steps
-[tinker-work]
+tinker-work (local workspace)
+
+## Hands-On Work
+Planned hands-on workspace for Python experiments and modular Tinker development.
+Repository will be added once the initial runnable modules are created.
